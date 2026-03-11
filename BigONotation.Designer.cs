@@ -47,6 +47,7 @@
             // 
             // btnLinear
             // 
+            btnLinear.Enabled = false;
             btnLinear.Location = new Point(79, 282);
             btnLinear.Name = "btnLinear";
             btnLinear.Size = new Size(268, 58);
@@ -57,6 +58,7 @@
             // 
             // btnBinary
             // 
+            btnBinary.Enabled = false;
             btnBinary.Location = new Point(79, 376);
             btnBinary.Name = "btnBinary";
             btnBinary.Size = new Size(268, 58);
@@ -67,6 +69,7 @@
             // 
             // btnMerge
             // 
+            btnMerge.Enabled = false;
             btnMerge.Location = new Point(79, 196);
             btnMerge.Name = "btnMerge";
             btnMerge.Size = new Size(268, 58);
